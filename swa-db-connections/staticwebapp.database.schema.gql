@@ -1,0 +1,7 @@
+type Person @model {
+  id: ID
+  Name: String
+  mailId: String
+  mob: String
+  message: String
+}
