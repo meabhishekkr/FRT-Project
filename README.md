@@ -19,4 +19,3 @@ This project will be providing a good amount of information about the all the pl
       3. js contains all the javascript files needed throughout the project including the function that sends feedback data to the server
       4. places contains all the place pages linked in the project for dipiction
 
-##### This project is a mere prototype and a fully working release.
